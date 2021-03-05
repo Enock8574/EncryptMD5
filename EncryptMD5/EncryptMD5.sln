@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1340
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptMD5", "EncryptMD5\EncryptMD5.csproj", "{480F961B-5CC3-4D2F-9310-F109C9278DD0}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MD5Installer", "MD5Installer\MD5Installer.vdproj", "{9CC48622-83B0-48BD-91B3-4D459F089E66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{480F961B-5CC3-4D2F-9310-F109C9278DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480F961B-5CC3-4D2F-9310-F109C9278DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480F961B-5CC3-4D2F-9310-F109C9278DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC48622-83B0-48BD-91B3-4D459F089E66}.Debug|Any CPU.ActiveCfg = Debug
+		{9CC48622-83B0-48BD-91B3-4D459F089E66}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
